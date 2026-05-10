@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GIMPCapsule
 Capsule is similar to photoshop smart object
 =======
