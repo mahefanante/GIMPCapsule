@@ -1,0 +1,5 @@
+# Ignorer les fichiers objets et exécutables
+*.o
+*.exe
+bin/
+build/
