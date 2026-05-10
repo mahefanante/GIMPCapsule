@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/96ce42d7-5784-4296-a8f2-9a2fb4e6254a
+
 # GIMPCapsule
 Capsule is similar to photoshop smart object
 =======
